@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DECO3200 v2.0",
+"productVersion": "0.1",
+"dataUrl": "Build v2.7 access 02.data.unityweb",
+"wasmCodeUrl": "Build v2.7 access 02.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build v2.7 access 02.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
